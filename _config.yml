@@ -1,0 +1,24 @@
+title: "YOUR NAME"
+description: "Personal Portfolio Website"
+baseurl: ""
+url: "https://yourusername.github.io"
+
+theme: minima
+
+# Navigation links
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
+
+# Author info
+author:
+  name: YOUR NAME
+  email: your@email.com
+
+# Social links
+github_username: yourgithubusername
+linkedin_username: yourlinkedinusername
+
+# Build settings
+markdown: kramdown
