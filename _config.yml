@@ -1,24 +1,23 @@
-title: "YOUR NAME"
-description: "Personal Portfolio Website"
+title: "Muhammad Bilal Saad"
+description: "Web Developer & University Student from Pakistan"
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://bilalsaad.github.io"
 
-theme: minima
+author:
+  name: Muhammad Bilal Saad
+  email: bilalsaad@email.com
 
-# Navigation links
+github_username: Muhammad-BilalSaad
+
 header_pages:
   - about.md
   - projects.md
   - contact.md
 
-# Author info
-author:
-  name: YOUR NAME
-  email: your@email.com
-
-# Social links
-github_username: yourgithubusername
-linkedin_username: yourlinkedinusername
-
-# Build settings
 markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+
+show_excerpts: true
