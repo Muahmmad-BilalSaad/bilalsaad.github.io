@@ -1,17 +1,16 @@
 title: "Muhammad Bilal Saad"
 description: "Web Developer & University Student from Pakistan"
 baseurl: ""
-url: "https://bilalsaad.github.io"
+url: "https://muhammad-bilalsaad.github.io"
 
 author:
   name: Muhammad Bilal Saad
-  email: bilalsaad@email.com
+  email: u1248784@mail.com
 
 github_username: Muhammad-BilalSaad
 
 header_pages:
   - about.md
-  - projects.md
   - contact.md
 
 markdown: kramdown
